@@ -1,0 +1,62 @@
+/* add your CSS here */
+h3 {
+    letter-spacing: 1vh;
+    font-size: 160%;
+    font-weight: 900;
+    padding: 12px 12px 2px;
+    margin: 0;
+    color:rgba(228, 171, 15, 0.856)
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    padding: 12px 12px;
+    display: block;
+    border-radius: 10%;
+    
+}
+#main-div {
+    width: 324px;
+    height: 686px;
+    margin: auto;
+    border: 1.5px solid rgba(0, 0, 0, .3);
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 3);
+    background-color: blanchedalmond;
+    border-radius: 20px;
+}
+
+#child-div {
+    border: 1.5px solid rgba(0, 0, 0, .3);
+    margin: 8px 12px 12px;
+    width: 297px;
+    height: 297px;
+    border-radius: 5%;
+}
+
+.info {
+    padding: 12px;
+    display: block;
+    margin: 0;
+}
+
+p.info1 {
+    font-style: italic;
+    padding: 12px 12px 0px;;
+}
+
+p.info3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80%;
+    padding: 0 12px 12px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 12px 12px;
+  }
+
+span {
+    font-weight: 900;
+}
